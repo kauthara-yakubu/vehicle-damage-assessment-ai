@@ -3,6 +3,11 @@
 
 ---
 
+## Demo
+![Demo](assets/demo/CrashCal_demo.mp4)
+
+---
+
 ## 🧭 Table of Contents
 
 - [Project Background](#project-background)
@@ -22,15 +27,15 @@
 
 Vehicle insurance claims are still primarily processed through manual inspections, in-person paperwork, and subjective assessments. This slows down the process, increases operating costs, and introduces human error.
 
-With the rising availability of high-quality car photos from smartphones and dashcams, there’s an opportunity to automate damage detection and cost estimation using machine learning. CrashCal was created as a proof-of-concept to demonstrate how **Convolutional Neural Networks (CNNs)** and **Computer Vision** can streamline claims processing in the auto insurance sector.
+With the rising availability of high-quality car photos from smartphones and dashcams, there’s an opportunity to automate damage detection and cost estimation using machine learning. CrashCal was created to demonstrate how **Convolutional Neural Networks (CNNs)** and **Computer Vision** can streamline claims processing in the auto insurance sector.
 
 ---
 
 ## 📌 Executive Summary
 
-**CrashCal** is an AI-powered vehicle damage assessment tool that automates claims triage using car images. The system uses deep learning to validate whether an image contains a car, identify the car brand, detect and classify visible damage, and estimate repair costs.
+**CrashCal** is a vehicle damage assessment tool that automates claims triage using car images. The system uses deep learning to validate whether an image contains a car, identify the car brand, detect and classify visible damage, and estimate repair costs.
 
-This project is a showcase of how computer vision can be used to eliminate manual inefficiencies, accelerate service delivery, and improve the accuracy of auto claims.
+This project is a showcase of how computer vision can be used to eliminate manual inefficiencies, accelerate service delivery for vehicle claims.
 
 ---
 
@@ -58,7 +63,7 @@ CrashCal is designed for the following users:
 
 ## 🖼️ System Architecture
 
-> *📷 Image placeholder: Insert system architecture diagram here showing frontend, model layers, backend, and result outputs*
+![System Architecture](assets/images/system_architecture.jpeg)
 
 ---
 
