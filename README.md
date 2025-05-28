@@ -139,5 +139,4 @@ CrashCal’s model is structured into modular checkpoints:
 
 ---
 
-> 📬 **Disclaimer:** This is a prototype developed as part of a portfolio project. Production deployment would require regulatory approval, real-world dataset calibration, and stronger data security integration.
 
