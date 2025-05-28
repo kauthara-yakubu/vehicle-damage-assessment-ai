@@ -5,7 +5,6 @@
 ## Demo
 
 
-
 ## 🧭 Table of Contents
 
 - [Project Background](#project-background)
