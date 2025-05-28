@@ -1,5 +1,5 @@
-# CrashCal 🚗💥  
-> Vehicle Damage Assessment Using Computer Vision  
+
+**_Vehicle Damage Assessment Using Computer Vision_**
 
 ---
 
