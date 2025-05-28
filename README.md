@@ -5,7 +5,7 @@
 
 ## Demo
 
-![Demo](assets/demo/CrashCal_demo.mp4)
+![Demo](assets/demo/Crashcal_demo.gif)
 
 ---
 
